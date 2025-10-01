@@ -27,6 +27,6 @@
 ## Applying Color, Font, Shapes, And Styling
 ## Publishing And Managing Content
 ## Scheduling Data Updates
-## Ai-Assisted Analysis: Tableau Agent And Tableau Pulse
+## AI-Assisted Analysis: Tableau Agent And Tableau Pulse
 ## Add Interactivity To Dashboards
 ## Create Table Calculations
